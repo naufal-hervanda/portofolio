@@ -3,18 +3,6 @@
         font-size: .9rem;
         line-height: 1.8rem;
     }
-
-    .toggle-burger .line-1 {
-        transform: rotate(-45deg) translate(-5px, 7px);
-    }
-    
-    .toggle-burger .line-2 {
-        opacity: 0;
-    }
-    
-    .toggle-burger .line-3 {
-        transform: rotate(45deg) translate(-5px, -7px);
-    }
 }
 
 .grid-3 {
