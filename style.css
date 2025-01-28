@@ -151,7 +151,7 @@ nav ul li a {
 }
 
 .burger {
-    /* display: none; */
+    display: none;
     z-index: 99;
     position: fixed;
     top: 33px;
