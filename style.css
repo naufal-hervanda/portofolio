@@ -357,7 +357,7 @@ nav ul li a {
 }
 
 .contact-form input, .contact-form textarea {
-    width: 100%;
+    width: 90%;
     padding: .75rem 1.3rem;
     font-family: "Roboto", sans-serif;
     background: var(--secondaryBackgroundcolor);
